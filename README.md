@@ -1,5 +1,5 @@
 # snoo-per
- A discord.py and reddit api mashup named after Discord's own mascot, Snoo
+ A discord.py and reddit api mashup named after Discord's own mascot, Snoo. Written in Python.
 
 # Installation and Setup
 
