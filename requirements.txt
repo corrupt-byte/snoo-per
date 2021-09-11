@@ -1,0 +1,8 @@
+discord.py
+dnspython
+PyNaCl
+Flask
+python-dotenv
+#asyncio (Windows bot hosts only, move comment hash over to include; python for Linux includes asyncio by default and the installable version is in conflict with some included code, needs further testing)
+praw
+aiohttp
