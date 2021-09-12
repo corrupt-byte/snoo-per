@@ -1,5 +1,9 @@
-# snoo-per
+# Snoo-per
  A discord.py and reddit api mashup named after Discord's own mascot, Snoo. Written in Python.
+ 
+ Visit us on Discord and see Snoo-per in action!
+ 
+ https://discord.gg/rqTVmdMBJX
 
 # Installation and Setup
 
@@ -20,7 +24,7 @@ REDDIT_USER, REDDIT_PASS, REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET: You need to re
 
 Install Python to the host and upload the complete bot package.
 
-Review requirements.txt and install as needed. Note Windows bot hosts need to move tthe comment hash over to re-include asyncio. Linux hosts should not install this as it will cause a conflict in the code that requires further troubleshooting.
+Review requirements.txt and install as needed. Note Windows bot hosts need to move the comment hash over to re-include asyncio. Linux hosts should not install this as it will cause a conflict in the code that requires further troubleshooting.
 
 pip install -r requirements.txt
 
